@@ -1,0 +1,6 @@
+## Required librairies:
+cuda-11.7
+cudnn/8.6.0
+python3/3.10.6
+tensorflow 2.8.3
+keras 2.8.0
