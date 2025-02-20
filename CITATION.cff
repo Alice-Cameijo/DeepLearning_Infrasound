@@ -1,0 +1,30 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Janela Cameijo"
+  given-names: "Alice"
+  orcid: "https://orcid.org/0009-0001-0843-233X"
+- family-names: "Le Pichon"
+  given-names: "Alexis"
+  orcid: "https://orcid.org/0000-0001-6531-069X" 
+- family-names: "Sklab"
+  given-names: "Youcef"
+  orcid: "https://orcid.org/0000-0002-7045-9402" 
+- family-names: "Arib"
+  given-names: "Souhila"
+- family-names: "brissaud"
+  given-names: "Quentin"
+  orcid: "https://orcid.org/0000-0001-8189-4699" 
+- family-names: "Näsholm"
+  given-names: "Sven Peter"
+  orcid: "https://orcid.org/0000-0001-9107-4002" 
+- family-names: "Listowski"
+  given-names: "Constantino"
+  orcid: "https://orcid.org/0000-0001-8693-8689" 
+- family-names: "Aknine"
+  given-names: "Samir"
+title: "Towards real-time assessment of infrasound event detection capability using deep learning-based transmission loss estimation"
+version: 1.0.0
+doi: 
+date-released: 
+url: "https://github.com/Alice-Cameijo/Deep_Learning_Infrasound"
