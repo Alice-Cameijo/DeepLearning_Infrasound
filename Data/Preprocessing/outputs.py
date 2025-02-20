@@ -47,7 +47,7 @@ distances = np.linspace(1., 4000., nb_columns_PE) # pas de 5 km distance
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 def compute_interpolated_ground_level_transmission_loss():
     # Get the 2D transmission loss coming from the "ePape" solver
-    map = pd.read_csv("ePape_PE/2D_PE_f0.4_azi_270.pe", sep='\s+', header=None)
+    map = pd.read_csv("ePape_PE/2D_PE_f0.1_azi_270.pe", sep='\s+', header=None)
     map.columns = ['x', 'z', 'Re-p', 'Im-p']
     dist, alt = map.x.unique(), map.z.unique()
     if(np.shape(np.array(np.sqrt(map['Re-p']**2 + map['Im-p']**2).values)) == (dist.size*alt.size,)):
