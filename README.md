@@ -25,7 +25,7 @@ All code files have a header with a quick description describing the usage.
 To understand the underlying theory, please read the associated publication.
 
 To test the pre-trained model, run the code contained in «cnn_gru/main.py».
-A condensed version of teh code is showed in the jupyter notebook «cnn_gru/quick_test.ipynb».
+A condensed version of the code is shown in the jupyter notebook «cnn_gru/quick_test.ipynb».
 
 Please cite us if you procude results using the code, as shown in "CITATION.cff".
 
