@@ -93,7 +93,7 @@ If you want to use your own atmospheric profiles:
 python Data/Preprocessing/inputs.py --input your_data_file.nc
 ```
 
-2. **(Optional) Prepare simulated output targets**
+2. **Prepare simulated output targets**
 
 ```bash
 python Data/Preprocessing/outputs.py
