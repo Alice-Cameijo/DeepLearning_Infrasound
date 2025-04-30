@@ -29,7 +29,7 @@ DeepLearning_Infrasound/
 │   ├── main.py               # Script to test the pre-trained model
 │   ├── quick_test.ipynb      # Jupyter Notebook for a simple demonstration
 │   ├── requirements.txt      # List of required Python packages
-│   ├── model/                # Folder containing pre-trained model weights
+│   ├── to_load/              # Folder containing pre-trained model weights
 ├── Data/
 │   ├── Preprocessing/
 │   │   ├── inputs.py          # Script to prepare atmospheric input data
